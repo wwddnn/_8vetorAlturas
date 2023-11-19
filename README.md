@@ -1,6 +1,6 @@
 # 💻 _8vetorAlturas 
 
-# ⌨️ Exercício sobre vetores - alturas 
+# 🎯 Exercício sobre vetores - alturas 
 
 - construir um programa para ler 'n' pessoas.
 - cada pessoa terá nome, idade e altura. armazenar essas informações em 3 vetores diferentes, que são: 
