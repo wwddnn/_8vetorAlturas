@@ -40,7 +40,7 @@ public class Program {
 
         //percentual de menores em relacao ao total de pessoas
         double percentual =( menores16 / n) * 100.0;
-        System.out.printf("Pessoas com menos de 16 anos %.1f%%",  percentual);
+        System.out.printf("Percentual de pessoas com menos de 16 anos %.1f%%",  percentual);
         System.out.println();
 
         //nome das pessoas com menos de 16 anos
